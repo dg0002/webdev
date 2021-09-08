@@ -4,8 +4,6 @@ Python3, flask, sqlite3, yahooquery
 
 **Flask Financial/ Stock Tracker**
 
-To Start:
-
 python3 > from app import db
 
 python3 > db.create_all()
