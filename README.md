@@ -1,6 +1,6 @@
 # webdev
 Space for learning front/ backend web development
-Python3, flask, sqlite3, yahoofinanceapi
+Python3, flask, sqlite3, yahooquery
 
 **Flask Financial/ Stock Tracker**
 
