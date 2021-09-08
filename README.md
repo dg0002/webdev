@@ -1,4 +1,3 @@
-This repo has been updated to work with `Python v3.8` and up.
 
 ### How To Run
 1. Install `virtualenv`:
@@ -20,8 +19,14 @@ $ .\env\Scripts\activate
 ```
 $ (env) pip install -r requirements.txt
 ```
+5. Build the database
 
-5. Finally start the web server:
+```
+python3 > from app import db
+python3 > db.create_all()
+```
+
+6. Finally start the web server:
 ```
 $ (env) python app.py
 ```
