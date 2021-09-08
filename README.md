@@ -1,6 +1,6 @@
 ### A space for learning front/ backend web development using Flask
 ### Financial/ Stock Tracking Website
-
+*Note: work in progress
 ### How To Run
 1. Install `virtualenv`:
 ```
