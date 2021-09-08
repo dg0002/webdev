@@ -12,4 +12,4 @@ python3 > db.create_all()
 
 python3 > app.py
 
-Port 5000
+localhost:5000
