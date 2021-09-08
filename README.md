@@ -11,3 +11,5 @@ python3 > from app import db
 python3 > db.create_all()
 
 python3 > app.py
+
+Port 5000
